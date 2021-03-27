@@ -26,6 +26,15 @@
     <link rel="stylesheet" href="/assets/css/custom.css">
   </head>
 
+  <header>
+    <div class="inner">
+        <a href="{{ '/' | absolute_url }}">
+         <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+    </div>
+  </header>
+  
   <body>
     <nav> 
       <div class="main-content nav-content"> 
@@ -33,14 +42,7 @@
         <a href="/posts.html" class="nav-link">Posts</a>
       </div>
     </nav>
-    <header>
-      <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-      </div>
-    </header>
+
     
     <div id="content-wrapper">
       <div class="inner clearfix">
