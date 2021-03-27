@@ -6,17 +6,3 @@ layout: default
 <p class="leader">In my first three blog posts, I’m going to look at three shows, New Girl, Gilmore Girls, and Game of Thrones. These three shows differ in genre, New Girl is a Sitcom, Gilmore Girls is Drama-Comedy, and Game of Thrones is Fantasy-Drama, this means the level of plot driven story lines are vastly different between them. New Girl is easy to pick up at any point, Gilmore Girls would require context, but it would be pretty easy to catch up on what was going on, Game of Thrones is pretty much impossible to jump into because of how plot dependent it is. By looking at the wide variety in shows, it will be easy to see how continuity errors effect even the simplest of plots.</p>
 <p class="leader">Overall, my point is this, the writing of people’s favorite stories is extremely important, too important to make careless mistakes in. TV is an escape for many, many people. They should be able to watch shows without sloppy and mind-bending mistakes in them. By keeping track of what is said and details that have been written into characters backstories and personalities, it will only enhance the quality and watchability of the show, making it a win-win for everyone involved.</p>
     
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
