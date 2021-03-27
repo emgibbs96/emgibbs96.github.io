@@ -14,9 +14,9 @@ header {
  background-size: cover;
  background-color: #5047B3;
  background-position: center center;
- font-family: 'Crete Round', sans-serif;
+ font-family: "Crete Round", serif;
 }
 
 body {
- font-family: 'Quicksand', sans-serif;
+ font-family: Quicksand, sans-serif;
 }
