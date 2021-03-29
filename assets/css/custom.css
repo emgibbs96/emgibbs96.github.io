@@ -1,5 +1,6 @@
 .nav-content {
  display: flex;
+ text-align: center;
 }
 
 .nav-link {
