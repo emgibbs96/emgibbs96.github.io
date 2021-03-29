@@ -1,16 +1,16 @@
 .nav-content {
  display: flex;
  background-color: #5047B3;
+ font-family: "Crete Round", serif;
 }
 
 .nav-link {
  display: block;
  width: 50%;
  color: #82ACDB;
- font-family: "Crete Round", serif;
 }
 
-header {
+.page-header {
  background-image: url("/assets/images/netflix_landingpage.jpg");
  background-size: cover;
  background-color: #5047B3;
