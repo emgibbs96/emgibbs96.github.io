@@ -13,3 +13,7 @@ header {
  background-color: #5047B3;
  background-position: center center;
 }
+
+h1 {
+ font-family: 'Quicksand', sans-serif;
+}
