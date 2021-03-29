@@ -5,7 +5,7 @@ title: Gilmore Girls - Lorelai the First
 
 ![Lorelai, Lorelai, and Rory](/assets/images/gilmoregirls.png)
 
-## Gilmore Girls - Lorelai the First
+# Gilmore Girls - Lorelai the First
 ### March 14, 2021 - Emma Gibbs
 
 Gilmore Girls is a show that revolves around a mother, Lorelai Gilmore (Lauren Graham), and daughter, Rory Gilmore (Alexis Bidel), trying to figure out life together in a small town in Connecticut. It is heartwarming, homey, and a little bit hokey in the best of ways. It’s a show I love so much that I plan to rewatch it every Fall for the rest of my life. While this show seems to do a bit better on the number continuity errors, there are still a few that really throw a wrench in the flow of the show.
