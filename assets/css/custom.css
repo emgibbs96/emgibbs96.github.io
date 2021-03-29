@@ -1,11 +1,11 @@
 .nav-content {
  display: flex;
- text-align: center;
 }
 
 .nav-link {
  display: block;
  width: 50%;
+ text-align: center;
 }
 
 header {
