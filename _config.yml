@@ -3,8 +3,6 @@
 #
 # Name of your site (displayed in the header)
 title: Continuity Conundrums
-# Short bio or description (displayed in the header)
-description: If you're a TV show enthusiast bothered by continuity errors in your favorite shows, then you're in the right place.
 theme: jekyll-theme-architect
 
 #
