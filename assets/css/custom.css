@@ -40,5 +40,9 @@ p {
 }
 
 .content-wrapper {
- background-color = #5047B3;
+ background-color: #5047B3;
+}
+
+.read-more {
+color: #82ACDB;
 }
