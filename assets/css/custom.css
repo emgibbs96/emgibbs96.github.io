@@ -28,4 +28,9 @@ a {
 
 p {
  font-family: 'Quicksand', serif;
+ color: #82ACDB;
+}
+
+.content-wrapper {
+ background-color = #5047B3;
 }
