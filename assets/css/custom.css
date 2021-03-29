@@ -2,10 +2,16 @@
 
 .nav-content {
  display: flex;
- background-color: #5047B3;
 }
 
 .nav-link {
  display: block;
  width: 50%;
+}
+
+header {
+ background-image: url("/assets/images/netflix_landingpage.jpg");
+ background-size: cover;
+ background-color: #5047B3;
+ background-position: center center;
 }
